@@ -1,0 +1,7 @@
+I am creative and passionate about my work. I am always looking for new ways to express myself and I strive to create the best work possible. I am driven by my desire to design something beautiful and unique using my web development skills.
+
+Currently I am a web learner. I have already finished HTML, CSS, GitHub, Bootstrap, Tailwind, Java Script. My next goal to learn is step by step React, ReactJS, ReactRouterDom, Tailwind Flex, MongoDB, NodeJS, ExpressJS, Firebase,JWT token,Netlify,Figma, Chrome Dev tool, vercel, Redux,sass, Resume. 
+My main aim now is to prepare myself for the job by completing all the topics of web development well. As my passion is in this line, I feel I can do well in this line, so I chose this path.
+I have already made more than 20 complete projects with HTML, CSS. For the past few days I have been taking the help of JavaScript to make the projects made with HTML, CSS dynamic. I enjoy and love my work very much.I will make a big project by revising JavaScript once more. The project will be e-commerce related. I store all my projects in my personal github account.
+I believe that art should be accessible to everyone, and I strive to make my work available to as many people as possible. I share my work in open source communities, as well as through print and digital media. I am always learning and growing as an artist, and I hopr to continue to develop my skills for years to come.
+
